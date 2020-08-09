@@ -8,8 +8,8 @@ I am a Full Stack Developer, using Angular and React for Front-End Frameworks an
 - 📜 I like to books related personal development and growth as growth can never be stopped so we should focus on positive growth instead of negative growth.
 - 🎮 I like to play games and my favorite games are Sekiro: The Shadows Die Twice and Counter Strike Global Offensive.
 - 🏋️ I like to do workout and I have been doing work-out for the last 4 years.
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/java.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="25">
+<img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" height="25">
 ### How Can you contact me!
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]

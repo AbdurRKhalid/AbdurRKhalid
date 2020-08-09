@@ -21,3 +21,6 @@ I am a Full Stack Developer, using Angular and React for Front-End Frameworks an
 
 [2]: https://www.facebook.com/ch.abdurrehman.77/
 [6]: http://www.github.com/AbdurRKhalid
+
+
+![AbdurRKhalid github stats](https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&show_icons=true&theme=tokyonight)

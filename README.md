@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres)](https://skillicons.dev)
 
 ## Developer Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,c,vim)](https://skillicons.dev)
 
 ## Cloud Technologies:
 

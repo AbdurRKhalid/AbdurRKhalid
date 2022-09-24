@@ -18,7 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrkhalid&show_icons=true" alt="abdurrkhalid" /></p>
 
 ## Blog Wrigin:
-I love to write blogs about different things and they can be found at:
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdurrkhalid333)
 
 ## LinkedIn Profile:

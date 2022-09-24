@@ -18,7 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrkhalid&show_icons=true" alt="abdurrkhalid" /></p>
 
 ## Blog Wrigin:
+I love to write blogs about different things and they can be found at:
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdurrkhalid333)
+
+## LinkedIn Profile:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-r-khalid/)
 
 <p align="center">
 <a href="https://dev.to/abdurrkhalid333" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abdurrkhalid333" height="30" width="30" /></a>

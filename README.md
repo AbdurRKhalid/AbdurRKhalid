@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABDUR REHMAN KHALID</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+Applications+for+Enterprises+and+Large+Scale+Businesses.)](https://git.io/typing-svg)
 <h3 align="center">A Professional Software Engineer having 3 years of Experience with Experties in the Field of Spring Boot and Angular.</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)

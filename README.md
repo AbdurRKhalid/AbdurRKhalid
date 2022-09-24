@@ -1,20 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABDUR REHMAN KHALID</h1>
 <h3 align="center">A Professional Software Engineer having 3 years of Experience with Experties in the Field of Spring Boot and Angular.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrkhalid" alt="abdurrkhalid" /> </p>
-
-- 🌱 I’m currently learning **Elastic Search, NGRX, State-Management and Jenkins**
-
-- 👨‍💻 All of my projects are available at [http://abdurrkhalid.github.io/](http://abdurrkhalid.github.io/)
-
-- 📝 I regulary write articles on [https://medium.com/@abdur.r.khalid](https://medium.com/@abdur.r.khalid)
-
-- 💬 Ask me about **Java, Angular, React, HTML5, CSS3, SQL**
-
-- 📫 How to reach me **abdur.r.khalid@gmail.com**
-
-- ⚡ Fun fact **I love to workout and I love to do Calligraphy and Sketching.**
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AbdurRKhalid&theme=dark&hide_border=true)](https://git.io/streak-stats)
 

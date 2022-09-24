@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABDUR REHMAN KHALID</h1>
-<h3 align="center">A Passionate Web Developer, Having Expertise in Angular, Java and Elastic Search. I love to learn new things and build new web applications.</h3>
+<h3 align="center">A Professional Software Engineer having 3 years of Experience with Experties in the Field of Spring Boot and Angular.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrkhalid" alt="abdurrkhalid" /> </p>
 

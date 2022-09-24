@@ -8,13 +8,13 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,nodejs,mongodb)](https://skillicons.dev)
 
 ## Complete Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,bootstrap,cassandra)](https://skillicons.dev)
 
 ## Developer Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,docker,c,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,c,vim,bash)](https://skillicons.dev)
 
 ## Cloud Technologies:
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrkhalid&show_icons=true" alt="abdurrkhalid" /></p>
 
 <p align="center">

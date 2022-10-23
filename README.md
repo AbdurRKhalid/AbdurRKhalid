@@ -9,6 +9,10 @@
         </a>
 </p>
 
+<a>
+  <img src="https://raw.githubusercontent.com/AbdurRKhalid/github-stats-transparent/output/generated/overview.svg" alt="AbdurRKhalid" align="right" />
+</a>
+
 - :office: &nbsp;I'm currently working at **[Nuvato.GMBH°]**
 - :seedling: &nbsp;I’m currently learning **Design Patterns**
 - :speech_balloon: &nbsp;I like to talk about **Java** and **Databases**

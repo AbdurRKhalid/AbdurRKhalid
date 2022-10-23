@@ -54,11 +54,29 @@
         </td>
     </tr>
 </table>
-
 <h1 align="left">Frameworks</h1>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48" height="48"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="48" height="48"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/></a>
+<table>
+    <tr>
+        <td align="center" width="96">
+            <a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48" height="48"/>
+            </a>
+            <br>Angular&nbsp;
+        </td>
+        <td align="center" width="96">
+            <a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="48" height="48"/>
+            </a>
+            <br>Spring Boot&nbsp;
+        </td>
+        <td align="center" width="96">
+            <a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
+            </a>
+            <br>Node.JS&nbsp;
+        </td>
+    </tr>
+</table>
 <h1 align="left">Databases</h1>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48"/></a>

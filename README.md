@@ -8,3 +8,9 @@
             <img alt="GitHub followers" src="https://img.shields.io/github/followers/AbdurRKhalid?color=green&logo=github">
         </a>
 </p>
+
+- :office: &nbsp;I'm currently working at **[Nuvato.GMBH°]**
+- :seedling: &nbsp;I’m currently learning **Design Patterns**
+- :speech_balloon: &nbsp;I like to talk about **Java** and **Databases**
+- :mailbox: &nbsp;Ask me anything on my **[Email](abdur.r.khalid@gmail.com)**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/abdur-r-khalid/)**

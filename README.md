@@ -19,6 +19,9 @@
 <div align="left">
     <img alt="GitHub Followers" src="https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical">
 </div>
+<div align="right">
+    <img alt="Frequently Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</div>
 <h1 align="left">Programming Languages</h1>
 <table>
     <tr>

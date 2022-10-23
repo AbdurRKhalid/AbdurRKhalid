@@ -8,9 +8,6 @@
             <img alt="GitHub followers" src="https://img.shields.io/github/followers/AbdurRKhalid?color=green&logo=github">
         </a>
 </p>
-<div align="left">
-    <img alt="GitHub Followers" src="https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical">
-</div>
 <!-- ![Abdur Rehman Kahlid GitHub stats]() -->
 
 - :office: &nbsp;I'm currently working at **[Nuvato.GMBH°]**
@@ -18,3 +15,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Java** and **Databases**
 - :mailbox: &nbsp;Ask me anything on my **[Email](abdur.r.khalid@gmail.com)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/abdur-r-khalid/)**
+
+<div align="left">
+    <img alt="GitHub Followers" src="https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical">
+</div>

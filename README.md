@@ -23,9 +23,9 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a>
         <img src=
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"  width="48" height="48" alt="Angular" />
+            <img src="https://abrudz.github.io/logos/Java.svg"  width="48" height="48" alt="Java" />
       </a>
       <br>C#&nbsp;(Core)
     </td>

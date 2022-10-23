@@ -19,3 +19,4 @@
 <div align="left">
     <img alt="GitHub Followers" src="https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical">
 </div>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></a>

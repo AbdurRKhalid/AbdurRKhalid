@@ -8,7 +8,6 @@
             <img alt="GitHub followers" src="https://img.shields.io/github/followers/AbdurRKhalid?color=green&logo=github">
         </a>
 </p>
-<!-- ![Abdur Rehman Kahlid GitHub stats]() -->
 
 - :office: &nbsp;I'm currently working at **[Nuvato.GMBH°]**
 - :seedling: &nbsp;I’m currently learning **Design Patterns**
@@ -16,12 +15,6 @@
 - :mailbox: &nbsp;Ask me anything on my **[Email](abdur.r.khalid@gmail.com)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/abdur-r-khalid/)**
 
-<!-- <div align="left" style="display:inline">
-    <img alt="GitHub Followers" src="https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical">
-</div>
-<div align="right">
-    <img alt="Frequently Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
-</div> -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical)
 ![Fav](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 <h1 align="left">Programming Languages</h1>

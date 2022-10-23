@@ -8,8 +8,10 @@
             <img alt="GitHub followers" src="https://img.shields.io/github/followers/AbdurRKhalid?color=green&logo=github">
         </a>
 </p>
-
-![Abdur Rehman Kahlid GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical)
+<div align="left">
+    <img alt="GitHub Followers" src="https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical">
+</div>
+<!-- ![Abdur Rehman Kahlid GitHub stats]() -->
 
 - :office: &nbsp;I'm currently working at **[Nuvato.GMBH°]**
 - :seedling: &nbsp;I’m currently learning **Design Patterns**

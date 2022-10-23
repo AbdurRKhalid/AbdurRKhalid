@@ -1,3 +1,2 @@
-👋 Hello! I am Abdur Rehman Khalid
-I am a Full Stack Developer, doing Software Development using Java, JavaScript and Angular.
-[GitHub Followers](https://img.shields.io/github/followers/AbdurRKhalid?style=social)
+<h1 align="left">:wave: Hello! I'm Abdur Rehman Khalid</h1>
+<h3 align="left">I am a Full Stack Developer, doing Software Development using Java, JavaScript and Angular</h3>

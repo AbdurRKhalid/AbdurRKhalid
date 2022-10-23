@@ -16,7 +16,7 @@
 - :mailbox: &nbsp;Ask me anything on my **[Email](abdur.r.khalid@gmail.com)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/abdur-r-khalid/)**
 
-<div align="left">
+<div align="left" style="display:inline">
     <img alt="GitHub Followers" src="https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical">
 </div>
 <div align="right">

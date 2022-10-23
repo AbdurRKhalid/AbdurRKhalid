@@ -16,12 +16,14 @@
 - :mailbox: &nbsp;Ask me anything on my **[Email](abdur.r.khalid@gmail.com)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/abdur-r-khalid/)**
 
-<div align="left" style="display:inline">
+<!-- <div align="left" style="display:inline">
     <img alt="GitHub Followers" src="https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical">
 </div>
 <div align="right">
     <img alt="Frequently Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
-</div>
+</div> -->
+![Stats](https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical)
+![Fav](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 <h1 align="left">Programming Languages</h1>
 <table>
     <tr>

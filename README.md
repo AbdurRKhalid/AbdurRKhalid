@@ -9,9 +9,7 @@
         </a>
 </p>
 
-<a>
-  <img src="https://raw.githubusercontent.com/AbdurRKhalid/github-stats-transparent/output/generated/overview.svg" alt="AbdurRKhalid" align="right" />
-</a>
+![Abdur Rehman Kahlid GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical)
 
 - :office: &nbsp;I'm currently working at **[Nuvato.GMBH°]**
 - :seedling: &nbsp;I’m currently learning **Design Patterns**

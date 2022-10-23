@@ -20,6 +20,17 @@
     <img alt="GitHub Followers" src="https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical">
 </div>
 <h1 align="left">Programming Languages</h1>
+<table>
+    <tr>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="48" height="48"/>
+            </a>
+            <br>Java&nbsp;
+        </td>
+    </tr>
+</table>
+
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="48" height="48"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48"/></a>

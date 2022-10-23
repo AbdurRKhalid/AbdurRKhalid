@@ -24,7 +24,8 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src=
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"  width="48" height="48" alt="Angular" />
       </a>
       <br>C#&nbsp;(Core)
     </td>

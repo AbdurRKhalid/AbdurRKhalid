@@ -1,5 +1,5 @@
 <h1 align="left">:wave: Hello! I'm Abdur Rehman Khalid</h1>
-<h3 align="left">I am a Full Stack Developer, doing Software Development using Java, JavaScript and Angular</h3>
+<h3 align="left">Full-Stack Developer passionate about building scalable cloud solutions</h3>
 <p align="left">
       <a href="https://github.com/AbdurRKhalid">
             <img src="https://komarev.com/ghpvc/?username=AbdurRKhalid" alt="page views" />
@@ -9,14 +9,14 @@
         </a>
 </p>
 
-- :office: &nbsp;I'm currently working at **[Nuvato.GMBH°]**
-- :seedling: &nbsp;I’m currently learning **Design Patterns**
+- :office: &nbsp;I'm currently working at **[Allex.ai](https://allex.ai)**
+- :seedling: &nbsp;I'm currently learning **Design Patterns**
 - :speech_balloon: &nbsp;I like to talk about **Java** and **Databases**
-- :mailbox: &nbsp;Ask me anything on my **[Email](abdur.r.khalid@gmail.com)**
+- :mailbox: &nbsp;Ask me anything on my **[Email](mailto:abdur.r.khalid@gmail.com)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/abdur-r-khalid/)**
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical)
-![Fav](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Fav](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRKhalid&layout=compact&theme=radical)
 <h1 align="left">Programming Languages</h1>
 <table>
     <tr>
@@ -72,6 +72,12 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
             </a>
             <br>Node.JS&nbsp;
+        </td>
+        <td align="center" width="96">
+            <a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48" height="48"/>
+            </a>
+            <br>React&nbsp;
         </td>
     </tr>
 </table>

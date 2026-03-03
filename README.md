@@ -10,13 +10,11 @@
 </p>
 
 - :office: &nbsp;I'm currently working at **[Allex.ai](https://allex.ai)**
-- :seedling: &nbsp;I'm currently learning **Design Patterns**
-- :speech_balloon: &nbsp;I like to talk about **Java** and **Databases**
+- :seedling: &nbsp;I'm currently learning **Software Architecture and System Design**
+- :speech_balloon: &nbsp;I like to talk about **TypeScript**, **React**, **Kubernetes**, **Node.Js** and **Databases**
 - :mailbox: &nbsp;Ask me anything on my **[Email](mailto:abdur.r.khalid@gmail.com)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/abdur-r-khalid/)**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AbdurRKhalid&count_private=true&show_icons=true&theme=radical)
-![Fav](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRKhalid&layout=compact&theme=radical)
 <h1 align="left">Programming Languages</h1>
 <table>
     <tr>
